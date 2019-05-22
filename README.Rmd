@@ -15,4 +15,4 @@ This repository contains the slides, information and resources used form my talk
 
 It is a work in progress, as it's a long way off.
 
-All section will be written in R, with slides using using `xaringan` [git repo](https://github.com/yihui/xaringan), based on the `medpar` data set in the `COUNT` package [CRAN](https://cran.r-project.org/web/packages/COUNT/index.html)
+All section will be written in R, with slides using using `xaringan` see [git repo](https://github.com/yihui/xaringan), based on the `medpar` data set in the `COUNT` package see [CRAN](https://cran.r-project.org/web/packages/COUNT/index.html) entry.
