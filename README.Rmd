@@ -1,0 +1,18 @@
+---
+title: "Using funnel plots and CUSUM techniques to monitor hospital-standardised mortality"
+author: "Chris Mainey"
+date: "22/05/2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This repository contains the slides, information and resources used form my talk at the Royal Statistical Society Conference 2019, on 5th September 2019.
+
+It is a work in progress, as it's a long way off.
+
+All section will be written in R, with slides using using `xaringan` [git repo](https://github.com/yihui/xaringan), based on the `medpar` data set in the `COUNT` package [CRAN](https://cran.r-project.org/web/packages/COUNT/index.html)
