@@ -2,7 +2,10 @@
 title: "Using funnel plots and CUSUM techniques to monitor hospital-standardised mortality"
 author: "Chris Mainey"
 date: "22/05/2019"
-output: html_document
+output: 
+  github_document:
+    html_preview: false
+
 ---
 
 ```{r setup, include=FALSE}
